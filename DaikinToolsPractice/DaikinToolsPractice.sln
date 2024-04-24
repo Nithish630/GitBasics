@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaikinToolsPractice", "DaikinToolsPractice\DaikinToolsPractice.csproj", "{1361EBEB-1201-4E55-842D-E72C22C1A8CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table", "Table\Table.csproj", "{1E552E1B-F170-43F0-8226-483F336417D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1361EBEB-1201-4E55-842D-E72C22C1A8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1361EBEB-1201-4E55-842D-E72C22C1A8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1361EBEB-1201-4E55-842D-E72C22C1A8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1361EBEB-1201-4E55-842D-E72C22C1A8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E552E1B-F170-43F0-8226-483F336417D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E552E1B-F170-43F0-8226-483F336417D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E552E1B-F170-43F0-8226-483F336417D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E552E1B-F170-43F0-8226-483F336417D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F7BCEA-F415-4415-836A-4AC578DF2242}
+	EndGlobalSection
+EndGlobal

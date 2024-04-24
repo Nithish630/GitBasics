@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5RzqC/KahCdZ/KuvIyN/0eFCDhtBQlRgX+Pw50bNm3FaaPCkiLn8OVEZ9gjhl9sO9nJWHAImgcZLvEjbSwHAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nithi\\OneDrive\\Desktop\\GitPractice\\DaikinToolsPractice\\Table\\Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nithi\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\syncfusion.compression.base\\25.1.39\\syncfusion.compression.base.25.1.39.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\syncfusion.docio.winforms\\25.1.39\\syncfusion.docio.winforms.25.1.39.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\syncfusion.licensing\\25.1.39\\syncfusion.licensing.25.1.39.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\syncfusion.officechart.base\\25.1.39\\syncfusion.officechart.base.25.1.39.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
